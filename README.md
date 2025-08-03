@@ -1,9 +1,9 @@
 # FUTURE_DS_01
 
-📄 Project Description
+Project Description
 I created an interactive E-Commerce Sales Performance Dashboard using Power BI, based on real-world retail transaction data from 2009–2011. My goal was to help business users identify key trends, top-performing products, and sales performance across countries and time periods.
 
-🔍 What I Did:
+What I Did:
 - Cleaned and transformed data using Power Query
 
 - Created custom DAX measures for Sales, Quantity, KPIs, and Top N logic
